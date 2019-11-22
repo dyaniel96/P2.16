@@ -1,5 +1,3 @@
-# Project Two
-
 [Github page](https://dyaniel96.github.io/P2.16/)<br/>
 
 
