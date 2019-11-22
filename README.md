@@ -1,6 +1,6 @@
 # Project Two
 
-[Github page](asdadsasd)<br/>
+[Github page](https://dyaniel96.github.io/P2.16/)<br/>
 
 
 ## 2D Game : Fingerless Raider
